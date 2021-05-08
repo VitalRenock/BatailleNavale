@@ -1,0 +1,7 @@
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\bin\Debug\BatailleNavale.exe.config
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\bin\Debug\BatailleNavale.exe
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\bin\Debug\BatailleNavale.pdb
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\obj\Debug\BatailleNavale.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\obj\Debug\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\obj\Debug\BatailleNavale.exe
+C:\Users\renau\OneDrive\Projets\Applications\BatailleNavale\BatailleNavale\obj\Debug\BatailleNavale.pdb
